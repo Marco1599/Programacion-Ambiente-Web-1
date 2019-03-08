@@ -13,5 +13,5 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
  <form method="POST">
  <label><?=$contador?></label>
-    <button type ="submit">click</button>
+    <button type ="submit">Click</button>
 </form>
